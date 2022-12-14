@@ -44,4 +44,4 @@ Ignored) <br/>
 Parent: Mother or Father of Passenger Aboard Titanic <br/>
 Child: Son, Daughter, Stepson, or Stepdaughter of Passenger Aboard Titanic <br/>
 
-
+For code explanation view training_test_data_titanic.ipynb file.
