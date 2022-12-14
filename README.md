@@ -1,4 +1,4 @@
-# Data-Science-Machine-Learning-Walkthrough
+# Data-Science-Machine-Learning-Titanic-Walkthrough
 Data science is a field that studies data and how to extract meaning from it, whereas machine learning is a field devoted to understanding and building methods that utilize data to improve performance or inform predictions
 ## Introduction
 In this walkthrough, I'll utilize Titanic Datasets to demonstrate data cleansing and forecast the passenger's survival using python language and jupyter notebook.
